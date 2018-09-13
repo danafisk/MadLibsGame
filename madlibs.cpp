@@ -56,9 +56,9 @@ cout<<" in your ";
 cout<<bodypart;
 cout<<" , from your previous career as a ";
 cout<<job1;
-cout<<, we must ";
+cout<<", we must ";
 cout<<medicalopperation;
-cout<<" this imediatly so you can go back to "endl;
+cout<<" this imediatly so you can go back to "<<endl;
 cout<<job2;
 cout<<"."<<endl;
 
@@ -66,8 +66,6 @@ return 0;
 
 
 }
-
-
 
 
 
